@@ -15,7 +15,7 @@ export default function StartScreen({ dispatch }) {
 
       <div className="start-copy">
         <span className="eyebrow">PROPERTY PRICING GAME</span>
-        <h1>Offer to Keys <span className="title-accent">Price Detective</span></h1>
+        <h1>First-Step <span className="title-accent">Price Detective</span></h1>
         <p className="lead">
           Every house has an asking price. Your job is to discover what it is actually worth.
           Read the conditions, inspect the right areas, estimate the hidden costs and submit one final buying price.
